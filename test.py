@@ -3,6 +3,7 @@ import os
 import bs4
 import time
 
+#this is the first code of main.py with errors 
 
 class Comic():
 
