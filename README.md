@@ -44,10 +44,7 @@ Time to spruce up our Manhwa Comic Downloader for the awesome Manhwa Clan! As an
 4. **Defeat Bugs, Save Downloads**:
    - Join us on our quest to vanquish bugs and ensure our downloader runs smoother than a perfectly drawn manga panel. Every bug squashed is a victory for comic lovers everywhere!
 
-5. **Share Your Epic Ideas**:
-   - Got cool ideas or just want to geek out about our downloader? Hit me up at [Your Contact Info]. Together, we'll make our Manhwa Comic Downloader the ultimate tool for comic enthusiasts!
 
-Happy coding adventures,
-shareefshareef
+
 
 
